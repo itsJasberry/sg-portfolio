@@ -1,35 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Portfolio and Blog
 
-## Getting Started
+![My Portfolio Banner](./public/readme_img.png)
 
-First, run the development server:
+Welcome to my portfolio and blog! This repository showcases my projects, thoughts, and experiences as I explore the world of technology and development.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## About
+This portfolio is a collection of my work and ideas. It includes:
+- **Projects**: Some of the projects I have worked on and would like to share.
+- **Blog**: My personal blog posts about coding, learning, and life.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Feel free to browse and learn from my work, but please note the usage restrictions below.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## License and Copyright
 
-## Learn More
+© [2024] [Szymon Grzesiak]. All rights reserved.
 
-To learn more about Next.js, take a look at the following resources:
+This repository is shared for **viewing purposes only**. Redistribution, modification, and use of the code or content in any form or for any purpose without prior written consent are strictly prohibited.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If you have any questions or would like to discuss collaborations, feel free to reach out!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# sg-portfolio
+## Contact
+- Email: [szymongrzesiak.pl@gmail.com]
+- Website: [https://szymongrzesiak.dev/)]
+- LinkedIn: [https://www.linkedin.com/in/szymon-grzesiak-296873200/]
