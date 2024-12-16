@@ -15,7 +15,7 @@ Feel free to browse and learn from my work, but please note the usage restrictio
 
 ## License and Copyright
 
-© [2024] [Szymon Grzesiak]. All rights reserved.
+© 2024 Szymon Grzesiak. All rights reserved.
 
 This repository is shared for **viewing purposes only**. Redistribution, modification, and use of the code or content in any form or for any purpose without prior written consent are strictly prohibited.
 
@@ -24,6 +24,6 @@ If you have any questions or would like to discuss collaborations, feel free to 
 ---
 
 ## Contact
-- Email: [szymongrzesiak.pl@gmail.com]
-- Website: [https://szymongrzesiak.dev/)]
-- LinkedIn: [https://www.linkedin.com/in/szymon-grzesiak-296873200/]
+- Email: szymongrzesiak.pl@gmail.com
+- Website: https://szymongrzesiak.dev/
+- LinkedIn: https://www.linkedin.com/in/szymon-grzesiak-296873200/
