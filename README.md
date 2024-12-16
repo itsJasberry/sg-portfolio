@@ -4,12 +4,29 @@
 
 Welcome to my portfolio and blog! This repository showcases my projects, thoughts, and experiences as I explore the world of technology and development.
 
-## About
-This portfolio is a collection of my work and ideas. It includes:
-- **Projects**: Some of the projects I have worked on and would like to share.
-- **Blog**: My personal blog posts about coding, learning, and life.
+While this repository might not stand out as something particularly unique, it serves as a **well-structured template** for a modern portfolio and blog. It demonstrates a clean folder organization, ensuring maintainability and scalability for future development.
 
-Feel free to browse and learn from my work, but please note the usage restrictions below.
+---
+
+## About
+This portfolio is more than just a collection of work; it is a testament to thoughtful design and technical execution:
+- **Projects**: Carefully selected projects to highlight my skills and knowledge.
+- **Blog**: Powered by `.mdx` for seamless blogging. Easily add posts with Markdown, incorporating React components where needed.
+
+### Key Features
+- **SEO Perfection**: The website is fully optimized for search engines, ensuring high visibility.
+- **Lighthouse Scored 100**: The homepage achieves a perfect score in all categories—Performance, Accessibility, Best Practices, and SEO.
+  
+![Lighthouse score](./public/lighthouse_img.png)
+
+- **Design**: A blend of **Glassmorphism** for modern aesthetics with touches of **Neobrutalism** to create a striking and unique visual identity.
+- **Security**: Fully optimized security headers, making the site highly resilient and secure against threats.
+  
+![Lighthouse score](./public/securityheaders_img.png)
+
+- **Ease of Use**: Adding and managing blog posts is effortless thanks to `.mdx`.
+
+All design elements, features, and code are **entirely created and coded by me**, reflecting both creativity and technical proficiency.
 
 ---
 
@@ -24,6 +41,6 @@ If you have any questions or would like to discuss collaborations, feel free to 
 ---
 
 ## Contact
-- Email: szymongrzesiak.pl@gmail.com
-- Website: https://szymongrzesiak.dev/
-- LinkedIn: https://www.linkedin.com/in/szymon-grzesiak-296873200/
+- Email: [szymongrzesiak.pl@gmail.com](mailto:szymongrzesiak.pl@gmail.com)
+- Website: [https://szymongrzesiak.dev/](https://szymongrzesiak.dev/)
+- LinkedIn: [https://www.linkedin.com/in/szymon-grzesiak-296873200/](https://www.linkedin.com/in/szymon-grzesiak-296873200/)
